@@ -1,0 +1,7 @@
+{
+	'0': {'name': 'Bisoprolol', 'min': 3, 'max': 7},
+    '1': {'name': 'Carvedilol', 'min': 5, 'max': 9},
+    '2': {'name': 'Domperidone', 'min': 7, 'max': 10},
+    '3': {'name': 'Ethambutol', 'min': 4, 'max': 7},
+    '4': {'name': 'Fexofenadine', 'min': 6, 'max': 11}
+}

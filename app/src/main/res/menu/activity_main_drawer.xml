@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/msg_home" />
+        <item
+            android:id="@+id/action_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/msg_setting" />
+        <item
+            android:id="@+id/action_info"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="@string/msg_info" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/action_suggest"
+                android:icon="@drawable/ic_edit_black_24dp"
+                android:title="@string/msg_suggest" />
+            <item
+                android:id="@+id/action_update"
+                android:icon="@drawable/ic_system_update_black_24dp"
+                android:title="@string/msg_update" />
+        </menu>
+    </item>
+</menu>

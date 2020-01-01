@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Routine</string>
+
+    <string name="btn_start">開始紀錄</string>
+    <string name="btn_stop">停止紀錄</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="msg_ver">版本: %1$s</string>
+    <string name="msg_home">首頁</string>
+    <string name="msg_setting">設定</string>
+    <string name="msg_info">資訊</string>
+    <string name="msg_suggest">建議</string>
+    <string name="msg_update">更新</string>
+
+    <string name="msg_avg_start">平均開始時間: </string>
+    <string name="msg_alarm">鬧鐘: </string>
+    <string name="msg_vibrate">震動</string>
+    <string name="msg_sound">聲音</string>
+    <string name="app_info">【資訊】:\n鬧鐘第三階段:\nAPP會在服藥時間前找使用者有較大機率在使用手機時發出鬧鐘提醒，鬧鐘提醒響起一分鐘後會自動關閉，五分鐘後再次響起鬧鐘，包含第一次共會響起五次。最後在服藥時間時會發出一次鬧鐘提醒，需要使用者點擊按鈕以確認服藥完畢。</string>
+
+    <string name="msg_start">開始記錄，新紀錄將會在下次開啟APP時載入</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Weather</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to weather topic</string>
+    <string name="fcm_message">FCM Message</string>
+</resources>
