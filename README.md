@@ -12,6 +12,7 @@ https://firebase.google.com/docs/android/setup
 
 select 'compile sdk version' and 'build tools version'
 https://stackoverflow.com/questions/45956775/when-i-try-to-run-my-app-back-in-android-studio-an-edit-configuration
+1
 
 ## Help to collect data
 Install routine/apk/Routine.apk 
