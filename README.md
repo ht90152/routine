@@ -10,5 +10,5 @@ Alarms according to past record start from average first use time
 Add firebase configuration file
 https://firebase.google.com/docs/android/setup
 
-## help to collect data
+## Help to collect data
 Install routine/apk/Routine.apk 
