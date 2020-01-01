@@ -8,7 +8,9 @@ Alarms according to past record start from average first use time
 
 ## Build your app
 Add firebase configuration file
+
 https://firebase.google.com/docs/android/setup
+https://stackoverflow.com/questions/45956775/when-i-try-to-run-my-app-back-in-android-studio-an-edit-configuration
 
 ## Help to collect data
 Install routine/apk/Routine.apk 
